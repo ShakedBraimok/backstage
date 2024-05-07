@@ -1,5 +1,13 @@
 # @backstage/plugin-notifications-backend
 
+## 0.2.1-next.2
+
+### Patch Changes
+
+- d541ff6: Fixed email processor `esm` issue and config reading
+- Updated dependencies
+  - @backstage/backend-common@0.22.0-next.2
+
 ## 0.2.1-next.1
 
 ### Patch Changes
